@@ -1,0 +1,6 @@
+basic.showString("I'm:")
+basic.showString("Lilholt The CS Teacher")
+basic.showString("my age is:")
+basic.showNumber(0900)
+basic.showString("Hello!")
+basic.showString("you!")

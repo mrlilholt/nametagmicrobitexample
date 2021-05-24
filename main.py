@@ -1,0 +1,6 @@
+basic.show_string("I'm:")
+basic.show_string("Lilholt The CS Teacher")
+basic.show_string("my age is:")
+basic.show_number(0900)
+basic.show_string("Hello!")
+basic.show_string("you!")
